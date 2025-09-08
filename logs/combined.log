@@ -1,0 +1,79 @@
+[2025-09-07 17:11:29] [32minfo[39m: ==================================================
+[2025-09-07 17:12:56] [32minfo[39m: ==================================================
+[2025-09-07 17:12:56] [32minfo[39m: Star Wars API Server iniciado
+[2025-09-07 17:12:56] [32minfo[39m: ==================================================
+[2025-09-07 17:12:56] [32minfo[39m: URL: http://localhost:3000
+[2025-09-07 17:12:56] [32minfo[39m: Swagger UI: http://localhost:3000/api-docs
+[2025-09-07 17:12:56] [32minfo[39m: API Info: http://localhost:3000/api
+[2025-09-07 17:12:56] [32minfo[39m: Health: http://localhost:3000/api/health
+[2025-09-07 17:12:56] [32minfo[39m: Ambiente: development
+[2025-09-07 17:12:56] [32minfo[39m: ==================================================
+[2025-09-07 17:13:11] [32minfo[39m: 2025-09-07T20:13:11.436Z - GET /api-docs/
+[2025-09-07 17:13:11] [32minfo[39m: Inicializando conexión a la base de datos...
+[2025-09-07 17:13:11] [32minfo[39m: Conexión a la base de datos inicializada correctamente
+[2025-09-07 17:13:11] [32minfo[39m: 2025-09-07T20:13:11.764Z - GET /api-docs/swagger-ui.css
+[2025-09-07 17:13:11] [32minfo[39m: 2025-09-07T20:13:11.776Z - GET /api-docs/swagger-ui-bundle.js
+[2025-09-07 17:13:11] [32minfo[39m: 2025-09-07T20:13:11.784Z - GET /api-docs/swagger-ui-standalone-preset.js
+[2025-09-07 17:13:11] [32minfo[39m: 2025-09-07T20:13:11.788Z - GET /api-docs/swagger-ui-init.js
+[2025-09-07 17:13:12] [32minfo[39m: 2025-09-07T20:13:12.136Z - GET /api-docs/favicon-32x32.png
+[2025-09-07 17:13:19] [32minfo[39m: 2025-09-07T20:13:19.556Z - GET /api/health
+[2025-09-07 17:13:31] [32minfo[39m: 2025-09-07T20:13:31.584Z - GET /api/data
+[2025-09-07 17:17:33] [32minfo[39m: ==================================================
+[2025-09-07 17:17:33] [32minfo[39m: Star Wars API Server iniciado
+[2025-09-07 17:17:33] [32minfo[39m: ==================================================
+[2025-09-07 17:17:33] [32minfo[39m: URL: http://localhost:3000
+[2025-09-07 17:17:33] [32minfo[39m: Swagger UI: http://localhost:3000/api-docs
+[2025-09-07 17:17:33] [32minfo[39m: API Info: http://localhost:3000/api
+[2025-09-07 17:17:33] [32minfo[39m: Health: http://localhost:3000/api/health
+[2025-09-07 17:17:33] [32minfo[39m: Ambiente: development
+[2025-09-07 17:17:33] [32minfo[39m: ==================================================
+[2025-09-07 17:17:38] [32minfo[39m: 2025-09-07T20:17:38.890Z - GET /api/data
+[2025-09-07 17:17:38] [32minfo[39m: Inicializando conexión a la base de datos...
+[2025-09-07 17:17:39] [32minfo[39m: Conexión a la base de datos inicializada correctamente
+[2025-09-07 17:25:16] [32minfo[39m: ==================================================
+[2025-09-07 17:25:16] [32minfo[39m: Star Wars API Server iniciado
+[2025-09-07 17:25:16] [32minfo[39m: ==================================================
+[2025-09-07 17:25:16] [32minfo[39m: URL: http://localhost:3000
+[2025-09-07 17:25:16] [32minfo[39m: Swagger UI: http://localhost:3000/api-docs
+[2025-09-07 17:25:16] [32minfo[39m: API Info: http://localhost:3000/api
+[2025-09-07 17:25:16] [32minfo[39m: Health: http://localhost:3000/api/health
+[2025-09-07 17:25:16] [32minfo[39m: Ambiente: development
+[2025-09-07 17:25:16] [32minfo[39m: ==================================================
+[2025-09-07 17:25:19] [32minfo[39m: 2025-09-07T20:25:19.285Z - GET /api-docs/
+[2025-09-07 17:25:19] [32minfo[39m: Inicializando conexión a la base de datos...
+[2025-09-07 17:25:19] [32minfo[39m: Conexión a la base de datos inicializada correctamente
+[2025-09-07 17:25:19] [32minfo[39m: 2025-09-07T20:25:19.508Z - GET /api-docs/swagger-ui.css
+[2025-09-07 17:25:19] [32minfo[39m: 2025-09-07T20:25:19.521Z - GET /api-docs/swagger-ui-bundle.js
+[2025-09-07 17:25:19] [32minfo[39m: 2025-09-07T20:25:19.526Z - GET /api-docs/swagger-ui-standalone-preset.js
+[2025-09-07 17:25:19] [32minfo[39m: 2025-09-07T20:25:19.534Z - GET /api-docs/swagger-ui-init.js
+[2025-09-07 17:25:19] [32minfo[39m: 2025-09-07T20:25:19.844Z - GET /api-docs/favicon-32x32.png
+[2025-09-07 17:25:37] [32minfo[39m: 2025-09-07T20:25:37.096Z - GET /api-docs/
+[2025-09-07 17:25:37] [32minfo[39m: 2025-09-07T20:25:37.124Z - GET /api-docs/swagger-ui.css
+[2025-09-07 17:25:37] [32minfo[39m: 2025-09-07T20:25:37.129Z - GET /api-docs/swagger-ui-bundle.js
+[2025-09-07 17:25:37] [32minfo[39m: 2025-09-07T20:25:37.139Z - GET /api-docs/swagger-ui-standalone-preset.js
+[2025-09-07 17:25:37] [32minfo[39m: 2025-09-07T20:25:37.145Z - GET /api-docs/swagger-ui-init.js
+[2025-09-07 17:25:37] [32minfo[39m: 2025-09-07T20:25:37.314Z - GET /api-docs/favicon-32x32.png
+[2025-09-07 17:26:05] [32minfo[39m: 2025-09-07T20:26:05.681Z - GET /api/data?page=1&limit=10
+[2025-09-07 17:26:30] [32minfo[39m: 2025-09-07T20:26:30.491Z - POST /api/external-data
+[2025-09-07 17:26:51] [32minfo[39m: 2025-09-07T20:26:51.095Z - GET /api/data?page=1&limit=10
+[2025-09-07 17:27:07] [32minfo[39m: 2025-09-07T20:27:07.889Z - GET /api/data?page=1&limit=20
+[2025-09-07 17:27:23] [32minfo[39m: 2025-09-07T20:27:23.280Z - GET /api/data?page=2&limit=5
+[2025-09-07 17:27:42] [32minfo[39m: 2025-09-07T20:27:42.685Z - GET /api/export-csv
+[2025-09-07 17:30:13] [32minfo[39m: ==================================================
+[2025-09-07 17:30:13] [32minfo[39m: Star Wars API Server iniciado
+[2025-09-07 17:30:13] [32minfo[39m: ==================================================
+[2025-09-07 17:30:13] [32minfo[39m: URL: http://localhost:3000
+[2025-09-07 17:30:13] [32minfo[39m: Swagger UI: http://localhost:3000/api-docs
+[2025-09-07 17:30:13] [32minfo[39m: API Info: http://localhost:3000/api
+[2025-09-07 17:30:13] [32minfo[39m: Health: http://localhost:3000/api/health
+[2025-09-07 17:30:13] [32minfo[39m: Ambiente: development
+[2025-09-07 17:30:13] [32minfo[39m: ==================================================
+[2025-09-07 17:30:13] [32minfo[39m: 2025-09-07T20:30:13.510Z - GET /api-docs/
+[2025-09-07 17:30:13] [32minfo[39m: Inicializando conexión a la base de datos...
+[2025-09-07 17:30:13] [32minfo[39m: Conexión a la base de datos inicializada correctamente
+[2025-09-07 17:30:13] [32minfo[39m: 2025-09-07T20:30:13.754Z - GET /api-docs/swagger-ui.css
+[2025-09-07 17:30:13] [32minfo[39m: 2025-09-07T20:30:13.764Z - GET /api-docs/swagger-ui-bundle.js
+[2025-09-07 17:30:13] [32minfo[39m: 2025-09-07T20:30:13.768Z - GET /api-docs/swagger-ui-standalone-preset.js
+[2025-09-07 17:30:13] [32minfo[39m: 2025-09-07T20:30:13.771Z - GET /api-docs/swagger-ui-init.js
+[2025-09-07 17:30:14] [32minfo[39m: 2025-09-07T20:30:14.135Z - GET /api-docs/favicon-32x32.png
+[2025-09-07 17:30:35] [32minfo[39m: 2025-09-07T20:30:35.512Z - GET /api/data?page=1&limit=10
