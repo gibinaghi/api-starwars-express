@@ -1,4 +1,4 @@
-# Star Wars Characters API - Serverless
+# Star Wars Characters API
 
 Una API serverless construida con Node.js, Express, TypeORM y PostgreSQL que consume la API de Star Wars y permite gestionar datos de personajes con funcionalidades de exportación a CSV.
 
